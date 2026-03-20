@@ -44,7 +44,8 @@ updates:
   - package-ecosystem: "npm"
     directory: "/webapps/frontend"
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "15 2 * * 1,3,5"
     reviewers:
       - "kthoms"
     target-branch: "main"
@@ -81,7 +82,8 @@ updates:
   - package-ecosystem: "npm"
     directory: "/engine-rest/docs"
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "15 2 * * 1,3,5"
     reviewers:
       - "kthoms"
     target-branch: "main"
@@ -153,7 +155,8 @@ updates:
   - package-ecosystem: "npm"
     directory: "/webapps/frontend"
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "15 2 * * 1,3,5"
     reviewers:
       - "kthoms"
     target-branch: "release/1.1.x"
@@ -190,7 +193,8 @@ updates:
   - package-ecosystem: "npm"
     directory: "/engine-rest/docs"
     schedule:
-      interval: "weekly"
+      interval: "cron"
+      cronjob: "15 2 * * 1,3,5"
     reviewers:
       - "kthoms"
     target-branch: "release/1.1.x"
