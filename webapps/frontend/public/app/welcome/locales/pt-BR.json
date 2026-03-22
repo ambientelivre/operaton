@@ -86,7 +86,7 @@
     "DIRECTIVE_ENGINE_SELECT_TOOLTIP": "Se você tiver vários motores em execução, você pode selecionar o mecanismo de processo aqui. Os dados exibidos neste aplicativo são baseados apenas no motor selecionado.",
     "DIRECTIVE_INPLACE_TEXTFIELD_ERROR_MSG": "Você deve especificar uma propriedade do contexto para ser editável",
     "DOCUMENTATION": "Documentação",
-    "DOCUMENTATION_DESCRIPTION": "Documentação do usuário das webapps Operaton",
+    "DOCUMENTATION_DESCRIPTION": "Documentação aplicações Operaton para usuários",
     "DOUBLE": "Double",
     "EDIT_PROFILE": "Editar perfil",
     "EDIT_YOUR_PROFILE": "Editar seu perfil",
